@@ -5,7 +5,7 @@
 
 一些目前自己用到的关于圈X的脚本的记录，仅个人记录使用;  
 搜集+修改=自用    
-可能不适用与所有人    
+并不适用与所有人    
 ## 特别声明
 如果你使用本项目，请紧记以下：  
 1、本项目内所有资源文件，禁止任何公众号、自媒体进行任何形式的转载、发布。  
@@ -21,8 +21,9 @@
 
 ### 主要参考了以下大佬的项目，特此感谢（排名部分前后，可能会有遗漏，敬请谅解）
 
-[@iDavyn](https://github.com/iDavyn) 
-[@yawenchim](https://github.com/yawenchim) 
+[@iDavyn](https://github.com/iDavyn)
+[@yawenchim](https://github.com/yawenchim)
+[@XIAO](https://github.com/KOP-XIAO)
 
 
 

@@ -1,5 +1,7 @@
 ## 关于Quantumult X 的一些个人记录!
-
+<!--
+<img src="https://i.loli.net/2021/01/29/U8epKsTl2v9OhIg.png" width=65% height=65%>
+-->
 #### 访问统计
 ![](http://profile-counter.glitch.me/jaycezf/count.svg)
 
@@ -19,7 +21,7 @@
 
 
 
-### 主要参考了以下大佬的项目，特此感谢（排名部分前后，可能会有遗漏，敬请谅解）
+### 主要参考了以下大佬的项目，特此感谢（排名不分前后，可能会有遗漏，敬请谅解）
 
 [@iDavyn](https://github.com/iDavyn)
 [@yawenchim](https://github.com/yawenchim)
